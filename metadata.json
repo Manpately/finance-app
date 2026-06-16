@@ -1,0 +1,6 @@
+{
+  "name": "NetFinance",
+  "description": "An interactive finance visualizer using nodes and edges to track expenses, set budgets, and view reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
